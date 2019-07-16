@@ -70,7 +70,7 @@ MonoBehaviour:
   m_MinSize: {x: 277, y: 292}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 137
+  controlID: 115
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -94,7 +94,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 50
+  controlID: 114
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -516,7 +516,8 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: 55
-  m_LastProjectPath: C:\Users\alex\Documents\Proyecto Final\Zoo Proyecto Final
+  m_LastProjectPath: C:\Users\alex\Documents\GitHub\Zoo-Proyecto-Final\Zoo Proyecto
+    Final
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
@@ -754,7 +755,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.13927212, y: 0.8476366, z: -0.27228644, w: 0.43356144}
     speed: 2
-    m_Value: {x: 0.13927214, y: 0.84763664, z: -0.27228647, w: 0.43356147}
+    m_Value: {x: 0.13927212, y: 0.8476365, z: -0.27228644, w: 0.4335614}
   m_Size:
     m_Target: 69.63655
     speed: 2
